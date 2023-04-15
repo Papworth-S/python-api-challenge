@@ -129,5 +129,5 @@ dmypy.json
 .pyre/
 
 # others
-api_key.py
+api_keys.py
 config.py
